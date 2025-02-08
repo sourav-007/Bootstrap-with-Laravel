@@ -44,7 +44,7 @@ The Inertia stack may also be installed with SSR support:
 php artisan jetstream:install inertia --ssr
 ```
 
-Dark Mode <br>
+**Dark Mode** <br>
 <span style="font-weight:100; font-size:13px;">
     If you would like to include "dark mode" support when scaffolding your application's frontend, provide the --dark directive when executing the jetstream:install command:
 </span>
